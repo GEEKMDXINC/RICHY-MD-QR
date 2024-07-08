@@ -17,17 +17,17 @@ const MESSAGE = process.env.MESSAGE ||  `
 
 *QR HAS BEEN SCANNED SUCCESSFULY* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌀
-║❒https://github.com/franceking1/Flash-Md 
+*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 
+║❒https://github.com/GEEKMDXINC/Richy-MD
 
-*JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-║❒https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1
+*JOIN OUR WhatsApp CHANNEL*
+║❒https://whatsapp.com/channel/0029Vae5OOcB4hdWhVdLJM2t
 
 *FOLLOW THE DEVELOPER* 🪄 
-║❒ https://instagram.com/france.king1 
+║❒ https://instagram.com/MC_Rubenx 
 
 
-       *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*
+       *RICHY-𝐌𝐃*
 `
 
 
